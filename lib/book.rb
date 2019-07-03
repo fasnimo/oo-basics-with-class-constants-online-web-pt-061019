@@ -17,5 +17,5 @@ class Book
       GENRE << genre
     end
 
-    
+
 end
